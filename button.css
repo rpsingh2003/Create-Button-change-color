@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.heading
+{
+   
+    text-transform: capitalize;
+    color:navy;
+    width:100%;
+	position: absolute;
+	top: 40%;
+	transform: translateY(-50%);
+	text-align:center;
+	
+}
+.paragraph
+{
+    text-align: center;
+    font-size:larger;
+    color: darkcyan;
+    top: 45%;
+    position: absolute;
+    width: 100%;
+    translate: (-50%);
+}
+.button
+{
+    width: 150px;
+	padding: 15px 0;
+    top: 50%;
+    left: 45%;
+	margin: 20px 10px;
+	border-radius: 25px;
+	font-weight: bold;
+	border:2px solid #009688;
+	background: transparent;
+	color:paleturquoise;
+	cursor: pointer;
+    text-transform: uppercase;
+    position: absolute;
+}
